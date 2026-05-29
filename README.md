@@ -46,6 +46,8 @@ Currently expanding my skill set into Python, SQL, Power BI, relational database
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
+[![Excel VBA](https://img.shields.io/badge/Excel%20VBA%20%2F%20Macros-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 [![Generative AI](https://img.shields.io/badge/Generative%20AI-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 ---
