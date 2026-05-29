@@ -6,10 +6,6 @@
 </div>
 
 ---
-
-# Tania Herrera
-
-**Operations & Process Analyst | Reporting | Change & Implementation Support**
 Bridging operations, data, and systems to improve how organizations execute processes at scale.
 
 I specialize in supporting and improving operational processes in multi-site and multi-stakeholder environments, working across Operations, IT, Finance, HR, and Commercial teams to ensure consistency, scalability, and alignment between business needs and system capabilities.
