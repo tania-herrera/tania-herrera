@@ -1,6 +1,6 @@
 # Tania Herrera
 
-Operations & Process Analyst | Reporting & Data Support
+Operations & Process Analyst | Reporting & System Support
 
 Turning operational processes into structured, data-driven insights for better business decisions.
 
